@@ -52,3 +52,10 @@ This project aims to classify images from the CIFAR-10 dataset using a Convoluti
    - Click the **Classify** button to process the image and generate predictions.  
 3. **View Results**:  
    - The classification label and its confidence score will be displayed in the GUI.
+
+## Output
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d14b7f1a-4ffb-40cf-936a-e99f566f7853" alt="Screenshot" width="431" height="400">
+</div>
+
